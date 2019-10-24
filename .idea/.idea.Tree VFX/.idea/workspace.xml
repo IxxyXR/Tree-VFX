@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="daebb9f1-c239-4775-a556-7e829e9546bc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualeffectgraph@7.1.2/Runtime/Utilities/PropertyBinding/Implementation/VFXHierarchyAttributeMapBinder.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1830">
+              <caret line="123" column="35" selection-start-line="123" selection-start-column="29" selection-end-line="123" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/VFXHierarchy2AttributeMapBinder.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="88" column="21" lean-forward="true" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+              <folding>
+                <marker date="1571487761007" expanded="true" signature="6:73" ph="..." />
+                <marker date="1571487761007" expanded="true" signature="108:6028" ph="{...}" />
+                <marker date="1571487761007" expanded="true" signature="311:6026" ph="{...}" />
+                <marker date="1571487761007" expanded="true" signature="1362:1572" ph="{...}" />
+                <marker date="1571487761007" expanded="true" signature="1616:1879" ph="{...}" />
+                <marker date="1571487761007" expanded="true" signature="1773:1869" ph="{...}" />
+                <marker date="1571487761007" expanded="true" signature="1906:1957" ph="{...}" />
+                <marker date="1571487761007" expanded="true" signature="1990:2530" ph="{...}" />
+                <marker date="1571487761007" expanded="true" signature="2591:3638" ph="{...}" />
+                <marker date="1571487761007" expanded="true" signature="2746:3601" ph="{...}" />
+                <marker date="1571487761007" expanded="true" signature="2837:3454" ph="{...}" />
+                <marker date="1571487761007" expanded="true" signature="2987:3106" ph="{...}" />
+                <marker date="1571487761007" expanded="true" signature="3170:3434" ph="{...}" />
+                <marker date="1571487761007" expanded="true" signature="3329:3412" ph="/* sourceScale = DefaultScale, ... */" />
+                <marker date="1571487761007" expanded="true" signature="3486:3587" ph="{...}" />
+                <marker date="1571487761007" expanded="true" signature="3666:4805" ph="{...}" />
+                <marker date="1571487761007" expanded="true" signature="4033:4483" ph="{...}" />
+                <marker date="1571487761007" expanded="true" signature="4868:5201" ph="{...}" />
+                <marker date="1571487761007" expanded="true" signature="5269:5828" ph="{...}" />
+                <marker date="1571487761007" expanded="true" signature="5335:5441" ph="{...}" />
+                <marker date="1571487761007" expanded="true" signature="5458:5516" ph="{...}" />
+                <marker date="1571487761007" expanded="true" signature="5871:6020" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>m_BoneCount</find>
+      <find>adius</find>
+      <find>sourceRadius</find>
+      <find>updateHierarc</find>
+      <find>Update</find>
+      <find>UpdateHierarchy</find>
+      <find>scale</find>
+      <find>namefilter</find>
+      <find>olorsm</find>
+      <find>.mat</find>
+      <find>mat</find>
+      <find>.mr</find>
+      <find>mr =</find>
+      <find>.color</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\andyb\Documents\Unity Projects\Tree VFX\Assets\TREE\Scripts</dir>
+    </dirStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/TREE/Scripts/TreePingColor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/VFXHierarchy2AttributeMapBinder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualeffectgraph@7.1.2/Runtime/Utilities/PropertyBinding/Implementation/VFXHierarchyAttributeMapBinder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualeffectgraph@7.1.2/Runtime/Utilities/PropertyBinding/VFXPropertyBinder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TREE/Scripts/TREEUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TREE/Scripts/TREEModCtrl.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/VFXHierarchy2AttributeMapBinder.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="TREE" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="TREE" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daebb9f1-c239-4775-a556-7e829e9546bc" name="Default Changelist" comment="" />
+      <created>1571241549037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571241549037</updated>
+      <workItem from="1571241551275" duration="3179000" />
+      <workItem from="1571483435998" duration="4052000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7231000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25253063" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualeffectgraph@7.1.2/Runtime/Utilities/PropertyBinding/VFXPropertyBinder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="29" column="44" lean-forward="true" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualeffectgraph@7.1.2/Runtime/Utilities/PropertyBinding/Implementation/VFXHierarchyAttributeMapBinder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1830">
+          <caret line="123" column="35" selection-start-line="123" selection-start-column="29" selection-end-line="123" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/VFXHierarchy2AttributeMapBinder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="88" column="21" lean-forward="true" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+          <folding>
+            <marker date="1571487761007" expanded="true" signature="6:73" ph="..." />
+            <marker date="1571487761007" expanded="true" signature="108:6028" ph="{...}" />
+            <marker date="1571487761007" expanded="true" signature="311:6026" ph="{...}" />
+            <marker date="1571487761007" expanded="true" signature="1362:1572" ph="{...}" />
+            <marker date="1571487761007" expanded="true" signature="1616:1879" ph="{...}" />
+            <marker date="1571487761007" expanded="true" signature="1773:1869" ph="{...}" />
+            <marker date="1571487761007" expanded="true" signature="1906:1957" ph="{...}" />
+            <marker date="1571487761007" expanded="true" signature="1990:2530" ph="{...}" />
+            <marker date="1571487761007" expanded="true" signature="2591:3638" ph="{...}" />
+            <marker date="1571487761007" expanded="true" signature="2746:3601" ph="{...}" />
+            <marker date="1571487761007" expanded="true" signature="2837:3454" ph="{...}" />
+            <marker date="1571487761007" expanded="true" signature="2987:3106" ph="{...}" />
+            <marker date="1571487761007" expanded="true" signature="3170:3434" ph="{...}" />
+            <marker date="1571487761007" expanded="true" signature="3329:3412" ph="/* sourceScale = DefaultScale, ... */" />
+            <marker date="1571487761007" expanded="true" signature="3486:3587" ph="{...}" />
+            <marker date="1571487761007" expanded="true" signature="3666:4805" ph="{...}" />
+            <marker date="1571487761007" expanded="true" signature="4033:4483" ph="{...}" />
+            <marker date="1571487761007" expanded="true" signature="4868:5201" ph="{...}" />
+            <marker date="1571487761007" expanded="true" signature="5269:5828" ph="{...}" />
+            <marker date="1571487761007" expanded="true" signature="5335:5441" ph="{...}" />
+            <marker date="1571487761007" expanded="true" signature="5458:5516" ph="{...}" />
+            <marker date="1571487761007" expanded="true" signature="5871:6020" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

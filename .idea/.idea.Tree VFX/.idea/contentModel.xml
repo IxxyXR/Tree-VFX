@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\andyb\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\andyb\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Tree VFX.1357308754.00" t="ExcludeRecursive" />
+    <e p="C:\Users\andyb\Documents\Unity Projects\Tree VFX" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="TREE" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="MakeTreeEditor.cs" t="Include" />
+              <e p="TREEModXFormEditor.cs" t="Include" />
+            </e>
+            <e p="GenomeUtils.cs" t="Include" />
+            <e p="Joint.cs" t="Include" />
+            <e p="MakeTree.cs" t="Include" />
+            <e p="RandomBug.cs" t="Include" />
+            <e p="Singleton.cs" t="Include" />
+            <e p="Trait.cs" t="Include" />
+            <e p="Transformer.cs" t="Include" />
+            <e p="TREE.cs" t="Include" />
+            <e p="TreeBoundingBox.cs" t="Include" />
+            <e p="TREEMod.cs" t="Include" />
+            <e p="TREEModBuild.cs" t="Include" />
+            <e p="TREEModBuildRandom.cs" t="Include" />
+            <e p="TREEModCtrl.cs" t="Include" />
+            <e p="TREEModPing.cs" t="Include" />
+            <e p="TREEModSwapGeo.cs" t="Include" />
+            <e p="TREEModSwapJoint.cs" t="Include" />
+            <e p="TREEModXForm.cs" t="Include" />
+            <e p="TreePing.cs" t="Include" />
+            <e p="TreePingColor.cs" t="Include" />
+            <e p="TreePingPlayEmit.cs" t="Include" />
+            <e p="TreePingPlaySound.cs" t="Include" />
+            <e p="TreePingScale.cs" t="Include" />
+            <e p="TreeTransform.cs" t="Include" />
+            <e p="TREEUtils.cs" t="Include" />
+          </e>
+        </e>
+        <e p="VFXHierarchy2AttributeMapBinder.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Tree VFX.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
